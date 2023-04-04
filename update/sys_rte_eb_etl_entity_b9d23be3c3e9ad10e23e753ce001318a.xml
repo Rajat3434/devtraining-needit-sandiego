@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Source_x_58872_needit_ihub_import_b8f1bfa3c3e9ad10e23e753ce0013190</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-19 16:19:16</sys_created_on>
+        <sys_id>b9d23be3c3e9ad10e23e753ce001318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_58872_needit_ihub_import_b8f1bfa3c3e9ad10e23e753ce0013190</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="import users_etl_ihub">e9d23be3c3e9ad10e23e753ce0013184</sys_rte_eb_definition>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_b9d23be3c3e9ad10e23e753ce001318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-19 16:19:16</sys_updated_on>
+        <table>x_58872_needit_ihub_import_b8f1bfa3c3e9ad10e23e753ce0013190</table>
+    </sys_rte_eb_etl_entity>
+</record_update>
